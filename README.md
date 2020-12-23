@@ -1,4 +1,4 @@
-#### I'm Felipe Malara, what's good? 👋
+### Hey there, I'm Felipe Malara, what's good? 👋
 
 [<img align="left" alt="felipemalara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="felipemalara | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow] 
