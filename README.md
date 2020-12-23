@@ -1,7 +1,9 @@
 ### Hey there, I'm Felipe Malara, what's good? 👋
 
+#### 📧 Contact me at ...
 [<img align="left" alt="felipemalara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="felipemalara | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow] 
+[<img align="left" alt="felipemalara | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp] 
 
 <br>
 
@@ -37,3 +39,4 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/felipemalara
 [stackoverflow]: https://stackoverflow.com/users/12701848/felipe-malara
+[whatsapp]: https://wa.me/5511972214098?text=Hello%20Felipe,%20I%27d%20like%20to%20contact%20you
