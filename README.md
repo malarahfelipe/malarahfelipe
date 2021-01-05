@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: https://www.linkedin.com/in/felipemalara
-[stackoverflow]: https://stackoverflow.com/users/12701848/felipe-malara
+[stackoverflow]: https://stackoverflow.com/users/story/12701848
 [whatsapp]: https://wa.me/5511972214098?text=Hello%20Felipe,%20I%27d%20like%20to%20contact%20you
