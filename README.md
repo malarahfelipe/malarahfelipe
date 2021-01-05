@@ -8,10 +8,10 @@
 <br>
 
 #### 🔭 I’m currently working on ... 
- Full stack development
+ Full stack development ( Vue3, Preact, Sockets, Kafka )
 
 #### 🌱 I’m currently learning ... 
- Game development
+ grpC, Kubernetes, Web components and game development in the free time 😁
 
 ---
 ### <img width="30px" src="https://raw.githubusercontent.com/omidnikrah/github-readme-stackoverflow/master/stackoverflow.svg" /> Stackoverflow stats
