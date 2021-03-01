@@ -1,5 +1,7 @@
 ### Hey there, I'm Felipe Malara, what's good? 👋
 
+![](https://komarev.com/ghpvc/?username=malarahfelipe&color=green)
+
 #### 📧 Contact me at ...
 [<img align="left" alt="felipemalara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="felipemalara | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow] 
